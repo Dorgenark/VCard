@@ -1,0 +1,58 @@
+body {
+    background: url(background.jpeg) repeat;
+    font-family: 'Source sans Pro', Calibri, Tahoma, sans-serif;
+}
+
+h1 {
+    text-transform: uppercase;
+    color: #CCCF16;
+    text-shadow: 2px 2px #18633E;
+}
+
+.page {
+    width: 735px;
+    margin: 0 auto;
+}
+
+.box {
+    margin-top: 180px;
+}
+
+.card {
+    background-color: #D76523;
+    width: 735px;
+    height: 375px;
+    overflow: auto;
+    border-radius: 15px;
+    box-shadow: 2px 3px #18633E;
+}
+
+img {
+    display: block;
+    width: 204px;
+    overflow: : auto;
+    border-radius: 7px;
+}
+
+.text {
+    float: left;
+    margin-left: 37px;
+    margin-top: 20px;
+    line-height: 10px;
+    text-shadow: 0.5px 0.5px grey;
+}
+
+.menu {
+    float: right;
+    margin-right: 270px;
+    width: 90px;
+    height: 90px;
+    color: #CCCF16;
+    font-size: 150%;
+    line-height: 50px;
+    text-shadow: 1px 1px #18633E;
+}
+
+.button {
+    list-style-type: none;
+}
