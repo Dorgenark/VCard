@@ -1,3 +1,10 @@
+a {
+    color: #CCCF16;
+    text-shadow: 1px 1px #18633E;
+    text-align: center;
+    text-decoration: none;
+}
+
 body {
     background: url(background.jpeg) repeat;
     font-family: 'Source sans Pro', Calibri, Tahoma, sans-serif;
@@ -30,9 +37,10 @@ h1 {
 img {
     display: block;
     width: 204px;
+    height: 204px;
     overflow: : auto;
     border-radius: 7px;
-    box-shadow: 1.5px 1px #18633E;
+    box-shadow: 2.5px 2px #A84F24;
 }
 
 .text {
